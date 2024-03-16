@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+Email Kofi at <kaddae89@sas.upenn.edu>

@@ -1,5 +1,5 @@
 ---
-title: Filipe Carneiro
+title: Kofi Addae-Sakyi
 ---
 
-Filipe Carneiro.
+Edited by Kofi Addae-Sakyi using material from Filipe Carneiro.
