@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-Email Kofi at <kaddae89@sas.upenn.edu>
+[Open an issue](https://github.com/jlumbroso/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
